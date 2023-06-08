@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Patricia and I'm Data Analyst with over ten years of experience in the Tech industry. I am skilled in Python, SQL, and Tableau with a strong passion for uncovering data insights.
+My name is Patricia and I'm Data Analyst with over ten years of experience in the Tech industry. I am skilled in Excel, Python, SQL, and Tableau with a strong passion for uncovering data insights.
 
 My expertise in data science is complemented by my extensive consulting, operations, and project management background, which allows me to take a unique approach when analyzing problems and exploring creative solutions.
 
