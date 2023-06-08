@@ -11,6 +11,9 @@ Fun facts:
 - I'm interested in healthy living, nutrition, and longevity.
 - I love travelling and experiencing new cultures.
 
+You can learn more about me, and reach me out in my [LinkedIn Profile](https://www.linkedin.com/in/patriciabasualdo).
+
+
 <!--
 
 **patrines3/patrines3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
