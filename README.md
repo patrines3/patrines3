@@ -8,7 +8,7 @@ I am a proactive problem-solver who thrives in fast-paced environments and enjoy
 
 Fun facts: 
 - I'm originally from Argentina, so I'm bilingual in Spanish. 
-- I'm interested in healthy living and longevity.
+- I'm interested in healthy living, nutrition, and longevity.
 - I love travelling and experiencing new cultures.
 
 <!--
